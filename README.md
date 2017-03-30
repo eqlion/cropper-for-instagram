@@ -1,6 +1,6 @@
 # cropper-for-instagram
 
-This little python script lets you split your panorama image into parts suitable for posting on Instagram into one post.
+This ~~little~~ itty-bitty tiny teeny little python script lets you split your panorama image into parts suitable for posting on Instagram into one post.
 
 # Usage
 
