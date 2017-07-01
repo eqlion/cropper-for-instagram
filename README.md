@@ -7,8 +7,13 @@ This ~~little~~ itty-bitty tiny teeny little python script lets you split your p
 Just download the script and execute it in the following way:
 
 ```
-./cropper.py [name of your panorama]
+./cropper.py [name of your panorama, should be placed in the same directory]
 ```
+or
+```
+./oop_cropper.py [name of your panorama, should be placed in the same directory]
+```
+if you prefer the other one (it doesn't really matter, as both produce the same result)
 
 After that the script will ask you about the way of cropping your photo:
 
@@ -18,4 +23,4 @@ After that the script will ask you about the way of cropping your photo:
 
 # Example
 
-It can be found [here](https://www.instagram.com/p/BR_SVkLjd1n/)
+It can be found [here](https://www.instagram.com/p/BR_SVkLjd1n/) and [here](https://www.instagram.com/p/BV9WplIj7Yl/).
